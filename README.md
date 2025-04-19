@@ -27,10 +27,6 @@
 
 ---
 
-### 1. Clone the Repository
-
-- git clone https://github.com/nikhilraghu/live-poll-battle.git
-- cd live-poll-battle
 
 ----------------------------------\*\*\*\*-------------------------------
 
