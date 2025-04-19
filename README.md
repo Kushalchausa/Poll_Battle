@@ -1,6 +1,6 @@
 # Poll_Battle
 
-# Live Poll Battle
+
 
 ## Overview
 
